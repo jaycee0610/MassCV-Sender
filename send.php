@@ -16,7 +16,7 @@ $contact_number = '09123456789';
 
 //SMTP Settings (Gmail)
 $email_address = 'youremail-address@gmail.com';
-$password = 'your-app-password'; //To get app password : go to Manage Google Account > Security > App passwords (Note: you must enable 2FA)
+$password = 'your-app-password'; //To obtain an app password: Navigate to Manage Google Account > Security > App Passwords. (Note: You must enable Two-Factor Authentication (2FA) beforehand.)
 
 
 //Mail Settings
