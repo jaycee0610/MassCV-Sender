@@ -1,13 +1,8 @@
 
 ## Mass CV Sender
-
-
-![App Screenshot](https://raw.githubusercontent.com/jaycee0610/MassCV-Sender/refs/heads/main/image.png)
-
 Send Application Emails Efficiently Using Mass CV Sender with Gmail SMTP
 
-
-
+![App Screenshot](https://raw.githubusercontent.com/jaycee0610/MassCV-Sender/refs/heads/main/image.png)
 
 ## Setup
 
